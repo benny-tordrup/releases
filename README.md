@@ -1,2 +1,2 @@
-# releases
-Repository for publishing artifacts.
+# Releases
+This repository contains release information for various projects.
